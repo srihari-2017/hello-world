@@ -1,0 +1,36 @@
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\Test Core.exe
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\Test Core.deps.json
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\Test Core.runtimeconfig.json
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\Test Core.runtimeconfig.dev.json
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\Test Core.dll
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\Test Core.pdb
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\Test Core.Views.dll
+C:\Users\vasup\source\repos\Test Core\Test Core\bin\Debug\netcoreapp3.1\Test Core.Views.pdb
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.AssemblyInfoInputs.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.AssemblyInfo.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.csproj.CoreCompileInputs.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.RazorAssemblyInfo.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.RazorAssemblyInfo.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\staticwebassets\Test Core.StaticWebAssets.Manifest.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\staticwebassets\Test Core.StaticWebAssets.xml
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test Core.styles.css
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.TagHelpers.input.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.TagHelpers.output.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.RazorCoreGenerate.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.RazorTargetAssemblyInfo.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.RazorTargetAssemblyInfo.cs
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.Views.pdb
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.dll
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.pdb
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.genruntimeconfig.cache
+C:\Users\vasup\source\repos\Test Core\Test Core\obj\Debug\netcoreapp3.1\Test Core.csproj.CopyComplete
